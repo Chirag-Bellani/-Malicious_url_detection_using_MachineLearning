@@ -13,4 +13,4 @@ For training and testing machine learning algorithms, we have used a huge datase
 
 For collecting benign, phishing, malware and defacement URLs we have used URL dataset (ISCX-URL-2016) For increasing phishing and malware URLs, we have used Malware domain black list dataset. We have increased benign URLs using faizan git repo At last, we have increased more number of phishing URLs using Phishtank dataset and PhishStorm dataset As we have told you that dataset is collected from different sources. So firstly, we have collected the URLs from different sources into separate dataframe and finally merge them to retain only URLs and their class type.
 
-The final pre-processed dataset is available at kaggle https://www.kaggle.com/sid321axn/malicious
+The final pre-processed dataset is available at kaggle https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
